@@ -7,6 +7,7 @@ This is a simple Bingo Game implementation using Python. In this game, the user 
 3. If the number is on the grid, it gets marked as 0.
 4. The game tracks the number of rows and columns that are fully marked off for both players (i.e., rows/columns where all values are 0).
 5. The game ends when one player completes 5 rows or columns (Bingo), and the other player loses.
+   
 **How to Play:**
 1. The game generates a random Bingo grid for both the user and the computer.
 2. The user is prompted to enter a number between 1 and 25.
